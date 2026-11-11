@@ -1,0 +1,368 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261110_101216.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261110_101216",
+        "arquivo": "TimePhoto_20261110_101216.jpg",
+        "caminho": "IMGS/TimePhoto_20261110_101216.jpg",
+        "lat": -9.303613333333335,
+        "lon": -39.92679166666667,
+        "latlon": "-9.303613, -39.926792",
+        "utm": "24L 398215 8971448",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 398215,
+        "utm_northing": 8971448,
+        "utm_hemisphere": "S",
+        "data": "10/11/2026",
+        "horario": "10:12",
+        "legenda": "Remoção mecanizada da camada superficial do terreno, com mobilização do sedimento pela lâmina do trator de esteiras",
+        "hash_md5": null,
+        "hash_sha256": "1ed8f840b0f6f9cdfa1ae5b28700939fa55fcf5bbf77dde40ffd1a90e014d577",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.92679166666667,
+          -9.303613333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261110_150013.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261110_150013",
+        "arquivo": "TimePhoto_20261110_150013.jpg",
+        "caminho": "IMGS/TimePhoto_20261110_150013.jpg",
+        "lat": -9.303678055555556,
+        "lon": -39.927875,
+        "latlon": "-9.303678, -39.927875",
+        "utm": "24L 398096 8971440",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 398096,
+        "utm_northing": 8971440,
+        "utm_hemisphere": "S",
+        "data": "10/11/2026",
+        "horario": "15:00",
+        "legenda": "Continuidade do rebaixamento superficial e organização do material removido em leiras",
+        "hash_md5": null,
+        "hash_sha256": "473da7d39c2edfc55d2c4e9b4bfad61e1f6993dd737ee7aa12322d4fd4e6dbed",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.927875,
+          -9.303678055555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261110_155639.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261110_155639",
+        "arquivo": "TimePhoto_20261110_155639.jpg",
+        "caminho": "IMGS/TimePhoto_20261110_155639.jpg",
+        "lat": -9.303513055555555,
+        "lon": -39.92748972222222,
+        "latlon": "-9.303513, -39.927490",
+        "utm": "24L 398138 8971459",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 398138,
+        "utm_northing": 8971459,
+        "utm_hemisphere": "S",
+        "data": "10/11/2026",
+        "horario": "15:56",
+        "legenda": "Formação de leira durante a remoção mecanizada da camada superficial na área da Pilha de Saprólitos",
+        "hash_md5": null,
+        "hash_sha256": "f0bde8b1a6774e569185d791c158a2bbf9730a6025ff125b971b9b38c57b574c",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.92748972222222,
+          -9.303513055555555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261110_155854.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261110_155854",
+        "arquivo": "TimePhoto_20261110_155854.jpg",
+        "caminho": "IMGS/TimePhoto_20261110_155854.jpg",
+        "lat": -9.303558055555555,
+        "lon": -39.92758666666666,
+        "latlon": "-9.303558, -39.927587",
+        "utm": "24L 398127 8971454",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 398127,
+        "utm_northing": 8971454,
+        "utm_hemisphere": "S",
+        "data": "10/11/2026",
+        "horario": "15:58",
+        "legenda": "Inspeção arqueológica do material removido e das superfícies expostas após a passagem do maquinário",
+        "hash_md5": null,
+        "hash_sha256": "bb536d8d72c9179ecc7b3db35c12d2bab9bc9afa05562850b58bcea77859718b",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.92758666666666,
+          -9.303558055555555
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MWB73WYD",
+    "dataCampo": "2026-11-10",
+    "horaIni": "09:21",
+    "horaFim": "16:25",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "5",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha",
+    "arqResp": "Carlos Rocha ",
+    "cargoResponsavel": "Arqueólogo",
+    "trecho": "remoção mecanizada da camada de húmus na pilha de soprólitos",
+    "tipoIntervencao": "Outros",
+    "tipoIntervencaoOutro": null,
+    "tipoAcao": "remoção mecanizada da camada de húmus",
+    "clima": "Ensolarado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": null,
+    "granulometria": null,
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": null,
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "Em continuidade às atividades na área denominada pelo empreendimento como Pilha de Soprólitos, foi iniciado o acompanhamento arqueológico da remoção mecanizada da camada superficial do terreno, operacionalmente tratada na frente de serviço como retirada do \"húmus\". Essa etapa sucedeu a supressão vegetal anteriormente monitorada, na qual a atuação da lâmina havia permanecido predominantemente restrita aos primeiros centímetros da superfície. Na atividade atual, o trator de esteiras passou a realizar rebaixamentos da ordem de aproximadamente 20 a 30 cm nos trechos acompanhados, ampliando significativamente a exposição do pacote sedimentar.\nO monitoramento arqueológico foi direcionado especialmente para a interface entre a superfície previamente exposta e os materiais mobilizados pela lâmina. Durante o avanço do trator, procurou-se manter posição de observação lateralmente avançada em relação à frente de trabalho, sempre fora do raio operacional e de manobra do equipamento, de modo a acompanhar tanto a superfície alcançada pelo corte quanto o material deslocado à frente da lâmina.\nA dinâmica de operação do equipamento favoreceu essa observação. À medida que a lâmina avançava, parte do sedimento era cortada, comprimida e impulsionada para a frente, produzindo um movimento de rolamento e tombamento do material. Esse processo expunha sucessivamente porções anteriormente enterradas, permitindo observar agregados, fragmentos rochosos e eventuais materiais incorporados ao sedimento antes que fossem definitivamente reunidos nas leiras. A inspeção arqueológica concentrou-se, portanto, tanto no material em movimento quanto nas superfícies recém-seccionadas e nas acumulações resultantes da operação.\nApós a passagem do trator, os setores rebaixados foram novamente percorridos. Essa segunda inspeção teve como finalidade verificar a superfície regularizada em busca de materiais arqueológicos móveis e, principalmente, de alterações que pudessem indicar feições preservadas, como mudanças localizadas de coloração, textura ou compactação, concentrações de carvão ou cinzas, alinhamentos de blocos, fragmentos cerâmicos, materiais líticos ou outras descontinuidades incompatíveis com a matriz sedimentar observada.\nA atividade deste primeiro dia permitiu, assim, ampliar a leitura arqueológica para níveis que não haviam sido alcançados durante a supressão vegetal. Nos setores efetivamente acompanhados, não foram identificados materiais arqueológicos, estruturas, feições de origem antrópica pretérita ou alterações sedimentares que indicassem a presença de contexto arqueológico. A remoção da camada superficial permanecerá em continuidade nos dias subsequentes, sendo mantido o acompanhamento arqueológico durante o avanço da frente.",
+    "obs": "A atividade acompanhada nesta etapa corresponde ao primeiro aprofundamento sistemático posterior à supressão vegetal, respondendo à necessidade anteriormente registrada de acompanhamento arqueológico das intervenções que ultrapassassem a camada superficial inicialmente exposta. O rebaixamento de aproximadamente 20 a 30 cm ampliou a possibilidade de observação de materiais ou feições eventualmente preservados abaixo da superfície, mantendo-se resultado negativo nos setores efetivamente acompanhados neste primeiro dia.\nEmbora a probabilidade de ocorrência arqueológica tenda a diminuir à medida que o aprofundamento alcance materiais progressivamente mais alterados e próximos do substrato geológico, não é possível estabelecer previamente uma profundidade absoluta a partir da qual o potencial arqueológico possa ser considerado nulo. Destarte, recomenda-se que eventuais aprofundamentos subsequentes permaneçam sob monitoramento arqueológico enquanto incidirem sobre solos, sedimentos ou materiais de alteração capazes de conter ou recobrir evidências arqueológicas.\nCaso as intervenções previstas avancem até profundidades próximas de 2 m, o monitoramento deverá acompanhar essa progressão até que a leitura estratigráfica permita reconhecer, de forma tecnicamente consistente, materiais geológicos ou saprolíticos sem indícios de formação ou incorporação arqueológica. A referência de 2 m deve ser compreendida, portanto, como profundidade operacional potencial da intervenção e não como profundidade presumida de ocorrência de sítios arqueológicos. Diante das condições observadas em campo e da possibilidade de aprofundamento progressivo da atividade, sugere-se à Coordenação Arqueológica a manutenção do monitoramento até que a sequência estratigráfica exposta permita reconhecer, de forma tecnicamente consistente, materiais geológicos ou saprolíticos sem indícios de formação, deposição ou incorporação arqueológica, cabendo à coordenação avaliar a pertinência e o alcance dessa recomendação no âmbito da condução do projeto.",
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "COMPLETED",
+    "tradagens": [],
+    "imagens_sem_gps": []
+  },
+  "app_restore": {
+    "kind": "FichaCampoWebView_HAS_RECORD_BACKUP",
+    "backupVersion": 1,
+    "appVersion": "v24",
+    "exportedAt": "2026-11-11T08:14:12.559Z",
+    "dbName": "fichacampo_v_final_corrigido",
+    "record": {
+      "id": "MWB73WYD",
+      "status": "COMPLETED",
+      "createdAt": 1794345713516,
+      "updatedAt": 1794384769440,
+      "dataCampo": "2026-11-10",
+      "horaIni": "09:21",
+      "horaFim": "16:25",
+      "atividade": "Monitoramento",
+      "categoria": "ADA",
+      "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+      "localidade": "Juazeiro - BA",
+      "empresaExecutora": "HAS CONSULTORIA",
+      "fichaNumero": "5",
+      "coordenadasTexto": "",
+      "coordCampo": "Carlos Rocha",
+      "arqResp": "Carlos Rocha ",
+      "cargoResponsavel": "Arqueólogo",
+      "tipoAcao": "remoção mecanizada da camada de húmus",
+      "trecho": "remoção mecanizada da camada de húmus na pilha de soprólitos",
+      "tipoIntervencao": "Outros",
+      "tipoIntervencaoOutro": "",
+      "clima": "Ensolarado",
+      "climaOutro": "",
+      "vegetacao": "",
+      "relevo": "",
+      "solo": "",
+      "granulometria": "",
+      "vestigios": "NAO",
+      "tipoEvidencia": "",
+      "materiaisEncontrados": "",
+      "tipoMaterial": "",
+      "tipoMaterialOutro": "",
+      "coleta": "NAO",
+      "amostrasAnalise": "",
+      "fotografias": "",
+      "croquis": "",
+      "houveAlteracaoContexto": "",
+      "medidasAdotadas": "",
+      "interrupcaoAtividade": "",
+      "motivoInterrupcao": "",
+      "observacoesRecomendacoes": "",
+      "observacoesExtras": "",
+      "desc": "Em continuidade às atividades na área denominada pelo empreendimento como Pilha de Soprólitos, foi iniciado o acompanhamento arqueológico da remoção mecanizada da camada superficial do terreno, operacionalmente tratada na frente de serviço como retirada do \"húmus\". Essa etapa sucedeu a supressão vegetal anteriormente monitorada, na qual a atuação da lâmina havia permanecido predominantemente restrita aos primeiros centímetros da superfície. Na atividade atual, o trator de esteiras passou a realizar rebaixamentos da ordem de aproximadamente 20 a 30 cm nos trechos acompanhados, ampliando significativamente a exposição do pacote sedimentar.\nO monitoramento arqueológico foi direcionado especialmente para a interface entre a superfície previamente exposta e os materiais mobilizados pela lâmina. Durante o avanço do trator, procurou-se manter posição de observação lateralmente avançada em relação à frente de trabalho, sempre fora do raio operacional e de manobra do equipamento, de modo a acompanhar tanto a superfície alcançada pelo corte quanto o material deslocado à frente da lâmina.\nA dinâmica de operação do equipamento favoreceu essa observação. À medida que a lâmina avançava, parte do sedimento era cortada, comprimida e impulsionada para a frente, produzindo um movimento de rolamento e tombamento do material. Esse processo expunha sucessivamente porções anteriormente enterradas, permitindo observar agregados, fragmentos rochosos e eventuais materiais incorporados ao sedimento antes que fossem definitivamente reunidos nas leiras. A inspeção arqueológica concentrou-se, portanto, tanto no material em movimento quanto nas superfícies recém-seccionadas e nas acumulações resultantes da operação.\nApós a passagem do trator, os setores rebaixados foram novamente percorridos. Essa segunda inspeção teve como finalidade verificar a superfície regularizada em busca de materiais arqueológicos móveis e, principalmente, de alterações que pudessem indicar feições preservadas, como mudanças localizadas de coloração, textura ou compactação, concentrações de carvão ou cinzas, alinhamentos de blocos, fragmentos cerâmicos, materiais líticos ou outras descontinuidades incompatíveis com a matriz sedimentar observada.\nA atividade deste primeiro dia permitiu, assim, ampliar a leitura arqueológica para níveis que não haviam sido alcançados durante a supressão vegetal. Nos setores efetivamente acompanhados, não foram identificados materiais arqueológicos, estruturas, feições de origem antrópica pretérita ou alterações sedimentares que indicassem a presença de contexto arqueológico. A remoção da camada superficial permanecerá em continuidade nos dias subsequentes, sendo mantido o acompanhamento arqueológico durante o avanço da frente.",
+      "obs": "A atividade acompanhada nesta etapa corresponde ao primeiro aprofundamento sistemático posterior à supressão vegetal, respondendo à necessidade anteriormente registrada de acompanhamento arqueológico das intervenções que ultrapassassem a camada superficial inicialmente exposta. O rebaixamento de aproximadamente 20 a 30 cm ampliou a possibilidade de observação de materiais ou feições eventualmente preservados abaixo da superfície, mantendo-se resultado negativo nos setores efetivamente acompanhados neste primeiro dia.\nEmbora a probabilidade de ocorrência arqueológica tenda a diminuir à medida que o aprofundamento alcance materiais progressivamente mais alterados e próximos do substrato geológico, não é possível estabelecer previamente uma profundidade absoluta a partir da qual o potencial arqueológico possa ser considerado nulo. Destarte, recomenda-se que eventuais aprofundamentos subsequentes permaneçam sob monitoramento arqueológico enquanto incidirem sobre solos, sedimentos ou materiais de alteração capazes de conter ou recobrir evidências arqueológicas.\nCaso as intervenções previstas avancem até profundidades próximas de 2 m, o monitoramento deverá acompanhar essa progressão até que a leitura estratigráfica permita reconhecer, de forma tecnicamente consistente, materiais geológicos ou saprolíticos sem indícios de formação ou incorporação arqueológica. A referência de 2 m deve ser compreendida, portanto, como profundidade operacional potencial da intervenção e não como profundidade presumida de ocorrência de sítios arqueológicos. Diante das condições observadas em campo e da possibilidade de aprofundamento progressivo da atividade, sugere-se à Coordenação Arqueológica a manutenção do monitoramento até que a sequência estratigráfica exposta permita reconhecer, de forma tecnicamente consistente, materiais geológicos ou saprolíticos sem indícios de formação, deposição ou incorporação arqueológica, cabendo à coordenação avaliar a pertinência e o alcance dessa recomendação no âmbito da condução do projeto.",
+      "modeloDocx": "HAS_ACOMPANHAMENTO",
+      "tradagens": []
+    },
+    "images": [
+      {
+        "key": "MWB73WYD_1794345915180_ggn37kra74a",
+        "recordId": "MWB73WYD",
+        "filename": "TimePhoto_20261110_101216.jpg",
+        "dt": "2026:11:10 10:12:16",
+        "coords": [
+          -39.92679166666667,
+          -9.303613333333335
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 398215,
+          "northing": 8971448
+        },
+        "dir": null,
+        "caption": "Remoção mecanizada da camada superficial do terreno, com mobilização do sedimento pela lâmina do trator de esteiras",
+        "created": 1794345915180,
+        "hashArquivo_sha256": "1ed8f840b0f6f9cdfa1ae5b28700939fa55fcf5bbf77dde40ffd1a90e014d577",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:11:10 10:12:16",
+        "exifNativeLat": -9.303613333333335,
+        "exifNativeLon": -39.92679166666667
+      },
+      {
+        "key": "MWB73WYD_1794345915587_8hp324pjva",
+        "recordId": "MWB73WYD",
+        "filename": "TimePhoto_20261110_150013.jpg",
+        "dt": "2026:11:10 15:00:13",
+        "coords": [
+          -39.927875,
+          -9.303678055555556
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 398096,
+          "northing": 8971440
+        },
+        "dir": null,
+        "caption": "Continuidade do rebaixamento superficial e organização do material removido em leiras",
+        "created": 1794345915587,
+        "hashArquivo_sha256": "473da7d39c2edfc55d2c4e9b4bfad61e1f6993dd737ee7aa12322d4fd4e6dbed",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:11:10 15:00:13",
+        "exifNativeLat": -9.303678055555556,
+        "exifNativeLon": -39.927875
+      },
+      {
+        "key": "MWB73WYD_1794345916030_oy2oebtathj",
+        "recordId": "MWB73WYD",
+        "filename": "TimePhoto_20261110_155639.jpg",
+        "dt": "2026:11:10 15:56:39",
+        "coords": [
+          -39.92748972222222,
+          -9.303513055555555
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 398138,
+          "northing": 8971459
+        },
+        "dir": null,
+        "caption": "Formação de leira durante a remoção mecanizada da camada superficial na área da Pilha de Saprólitos",
+        "created": 1794345916030,
+        "hashArquivo_sha256": "f0bde8b1a6774e569185d791c158a2bbf9730a6025ff125b971b9b38c57b574c",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:11:10 15:56:39",
+        "exifNativeLat": -9.303513055555555,
+        "exifNativeLon": -39.92748972222222
+      },
+      {
+        "key": "MWB73WYD_1794345916476_ibdaby94y4d",
+        "recordId": "MWB73WYD",
+        "filename": "TimePhoto_20261110_155854.jpg",
+        "dt": "2026:11:10 15:58:54",
+        "coords": [
+          -39.92758666666666,
+          -9.303558055555555
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 398127,
+          "northing": 8971454
+        },
+        "dir": null,
+        "caption": "Inspeção arqueológica do material removido e das superfícies expostas após a passagem do maquinário",
+        "created": 1794345916476,
+        "hashArquivo_sha256": "bb536d8d72c9179ecc7b3db35c12d2bab9bc9afa05562850b58bcea77859718b",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:11:10 15:58:54",
+        "exifNativeLat": -9.303558055555555,
+        "exifNativeLon": -39.92758666666666
+      }
+    ]
+  }
+}
