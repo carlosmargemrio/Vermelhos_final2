@@ -1,0 +1,368 @@
+{
+  "type": "FeatureCollection",
+  "name": "imagens_pontos",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261112_105954.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261112_105954",
+        "arquivo": "TimePhoto_20261112_105954.jpg",
+        "caminho": "IMGS/TimePhoto_20261112_105954.jpg",
+        "lat": -9.30314,
+        "lon": -39.92785472222222,
+        "latlon": "-9.303140, -39.927855",
+        "utm": "24L 398098 8971500",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 398098,
+        "utm_northing": 8971500,
+        "utm_hemisphere": "S",
+        "data": "12/11/2026",
+        "horario": "10:59",
+        "legenda": "Inspeção arqueológica de leira e superfície rebaixada durante a continuidade da remoção mecanizada da camada superficial na área da Pilha de Saprólitos",
+        "hash_md5": null,
+        "hash_sha256": "bbfc871baf4e34df48c6fa4ab28c334a10dd746591c3c47ce3ae866bcf33cce7",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.92785472222222,
+          -9.30314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261112_085800.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261112_085800",
+        "arquivo": "TimePhoto_20261112_085800.jpg",
+        "caminho": "IMGS/TimePhoto_20261112_085800.jpg",
+        "lat": -9.304725000000001,
+        "lon": -39.93237638888888,
+        "latlon": "-9.304725, -39.932376",
+        "utm": "24L 397602 8971323",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 397602,
+        "utm_northing": 8971323,
+        "utm_hemisphere": "S",
+        "data": "12/11/2026",
+        "horario": "08:58",
+        "legenda": "Área de aproximadamente 400 m² submetida à supressão vegetal sem comunicação prévia à equipe de Arqueologia, posteriormente vistoriada por meio de prospecção dirigida, sem identificação de vestígios arqueológicos",
+        "hash_md5": null,
+        "hash_sha256": "54d6bf8df9a64cf8557674cdc685557ad2fb5801a5fd96dc989a5f89e91fbde6",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.93237638888888,
+          -9.304725000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261112_093523.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261112_093523",
+        "arquivo": "TimePhoto_20261112_093523.jpg",
+        "caminho": "IMGS/TimePhoto_20261112_093523.jpg",
+        "lat": -9.302993333333333,
+        "lon": -39.927161388888884,
+        "latlon": "-9.302993, -39.927161",
+        "utm": "24L 398174 8971516",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 398174,
+        "utm_northing": 8971516,
+        "utm_hemisphere": "S",
+        "data": "12/11/2026",
+        "horario": "09:35",
+        "legenda": "Mobilização e transporte superficial do sedimento durante a formação das leiras, com exposição progressiva dos níveis atingidos pela intervenção\n",
+        "hash_md5": null,
+        "hash_sha256": "4c636193b669b581d759297e83610552087ca47f923291ebfc4bc752e4df68cc",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.927161388888884,
+          -9.302993333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TimePhoto_20261112_155815.jpg",
+      "properties": {
+        "nome": "TimePhoto_20261112_155815",
+        "arquivo": "TimePhoto_20261112_155815.jpg",
+        "caminho": "IMGS/TimePhoto_20261112_155815.jpg",
+        "lat": -9.30339138888889,
+        "lon": -39.92871972222222,
+        "latlon": "-9.303391, -39.928720",
+        "utm": "24L 398003 8971472",
+        "utm_zone": 24,
+        "utm_band": "L",
+        "utm_easting": 398003,
+        "utm_northing": 8971472,
+        "utm_hemisphere": "S",
+        "data": "12/11/2026",
+        "horario": "15:58",
+        "legenda": "Continuidade do rebaixamento mecanizado, com acompanhamento da superfície exposta e do material mobilizado pela lâmina do trator de esteiras",
+        "hash_md5": null,
+        "hash_sha256": "dbd1e9cdb2e4f767ed9650a1f31af729cc7eff237228bb4c0997688740ed1f0e",
+        "origem_coordenadas": "ANDROID_EXIF_NATIVE",
+        "exif_js_status": "GPS_OK",
+        "exif_native_status": "GPS_OK",
+        "exif_native_modo_leitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "duplicata_local_sha256": false,
+        "grupo_duplicata_sha256": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.92871972222222,
+          -9.30339138888889
+        ]
+      }
+    }
+  ],
+  "ficha": {
+    "id": "MWER4TZV",
+    "dataCampo": "2026-11-12",
+    "horaIni": "08:20",
+    "horaFim": "16:45",
+    "atividade": "Monitoramento",
+    "categoria": "ADA",
+    "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+    "localidade": "Juazeiro - BA",
+    "empresaExecutora": "HAS CONSULTORIA",
+    "fichaNumero": "7",
+    "coordenadasTexto": null,
+    "coordCampo": "Carlos Rocha ",
+    "arqResp": "Carlos Rocha ",
+    "cargoResponsavel": "Arqueólogo",
+    "trecho": "Pilha de soprólitos ",
+    "tipoIntervencao": "Outros",
+    "tipoIntervencaoOutro": null,
+    "tipoAcao": null,
+    "clima": "Ensolarado",
+    "climaOutro": null,
+    "vegetacao": null,
+    "relevo": null,
+    "solo": "Siltoso / Argilo-siltoso",
+    "granulometria": "Média",
+    "vestigios": "NAO",
+    "tipoEvidencia": null,
+    "materiaisEncontrados": null,
+    "tipoMaterial": null,
+    "tipoMaterialOutro": null,
+    "coleta": "NAO",
+    "amostrasAnalise": null,
+    "fotografias": null,
+    "croquis": null,
+    "houveAlteracaoContexto": null,
+    "medidasAdotadas": null,
+    "interrupcaoAtividade": null,
+    "motivoInterrupcao": null,
+    "observacoesRecomendacoes": null,
+    "observacoesExtras": null,
+    "desc": "Em continuidade ao acompanhamento arqueológico da área destinada à Pilha de Saprólitos, foram mantidos os procedimentos adotados nos dias anteriores durante a remoção mecanizada da camada superficial do terreno. O monitoramento permaneceu direcionado à observação dos materiais mobilizados pela lâmina do trator de esteiras, das superfícies progressivamente rebaixadas e das leiras formadas com o sedimento removido, complementado pela reinspeção dos setores após a passagem do equipamento.\nNo início da jornada, ao acessar a área de trabalho, foi identificada uma pequena superfície submetida à supressão vegetal sem comunicação prévia à equipe de Arqueologia. A intervenção, estimada em aproximadamente 400 m², havia sido executada no dia anterior. Diante da situação, foi realizada prospecção arqueológica dirigida em toda a área afetada, abrangendo a superfície exposta, os sedimentos remobilizados e os setores marginais, sem que fossem identificados materiais arqueológicos, feições de origem antrópica pretérita ou alterações sedimentares de possível interesse arqueológico.\nApós essa verificação, o acompanhamento prosseguiu na frente principal da Pilha de Saprólitos, mantendo-se a inspeção direta durante o avanço do maquinário e a posterior revisão das superfícies rebaixadas. Nos setores acompanhados ao longo do dia, também não foram reconhecidas evidências arqueológicas.\nA continuidade dessa atividade permanece relevante para a avaliação arqueológica, uma vez que o rebaixamento atual alcança níveis do terreno não expostos durante a etapa inicial de supressão vegetal. Por essa razão, o acompanhamento deve ser mantido durante as demais intervenções que impliquem aprofundamento ou nova mobilização do solo natural.",
+    "obs": "A supressão vegetal de aproximadamente 400 m² identificada no início da jornada havia sido executada sem comunicação prévia à equipe de Arqueologia. Embora a prospecção posterior da área não tenha resultado na identificação de vestígios arqueológicos, esse procedimento não possui a mesma capacidade de controle proporcionada pelo acompanhamento simultâneo à intervenção, uma vez que eventual material poderia ser deslocado, fragmentado ou ter suas relações espaciais alteradas durante a operação mecanizada.\nA situação foi comunicada ao responsável pela operação, o Sr. Gilson MCSA, reforçando-se a necessidade de que toda intervenção sobre terreno natural, incluindo supressão vegetal, raspagem, escavação ou qualquer forma de revolvimento do solo natural, seja previamente informada à equipe de Arqueologia para possibilitar o acompanhamento correspondente. Esse procedimento está em consonância com as medidas previstas no projeto de gestão do patrimônio arqueológico apresentado no âmbito do empreendimento e aprovado pelo Iphan.\nA observância dessa comunicação assume particular relevância diante da recorrência de ocorrências e sítios arqueológicos já registrados na ADA do empreendimento. Nessas condições, intervenções executadas sem acompanhamento arqueológico podem representar risco de deslocamento ou perda de evidências e, principalmente, de comprometimento de suas relações contextuais, mesmo quando uma inspeção posterior não identifica materiais remanescentes na superfície.",
+    "modeloDocx": "HAS_ACOMPANHAMENTO",
+    "status": "COMPLETED",
+    "tradagens": [],
+    "imagens_sem_gps": []
+  },
+  "app_restore": {
+    "kind": "FichaCampoWebView_HAS_RECORD_BACKUP",
+    "backupVersion": 1,
+    "appVersion": "v24",
+    "exportedAt": "2026-11-13T17:46:29.265Z",
+    "dbName": "fichacampo_v_final_corrigido",
+    "record": {
+      "id": "MWER4TZV",
+      "status": "COMPLETED",
+      "createdAt": 1794560747086,
+      "updatedAt": 1794591959391,
+      "dataCampo": "2026-11-12",
+      "horaIni": "08:20",
+      "horaFim": "16:45",
+      "atividade": "Monitoramento",
+      "categoria": "ADA",
+      "projeto": "Empreendimento Minéro-Industrial N8N9 - Juazeiro - BA",
+      "localidade": "Juazeiro - BA",
+      "empresaExecutora": "HAS CONSULTORIA",
+      "fichaNumero": "7",
+      "coordenadasTexto": "",
+      "coordCampo": "Carlos Rocha ",
+      "arqResp": "Carlos Rocha ",
+      "cargoResponsavel": "Arqueólogo",
+      "tipoAcao": "",
+      "trecho": "Pilha de soprólitos ",
+      "tipoIntervencao": "Outros",
+      "tipoIntervencaoOutro": "",
+      "clima": "Ensolarado",
+      "climaOutro": "",
+      "vegetacao": "",
+      "relevo": "",
+      "solo": "Siltoso / Argilo-siltoso",
+      "granulometria": "Média",
+      "vestigios": "NAO",
+      "tipoEvidencia": "",
+      "materiaisEncontrados": "",
+      "tipoMaterial": "",
+      "tipoMaterialOutro": "",
+      "coleta": "NAO",
+      "amostrasAnalise": "",
+      "fotografias": "",
+      "croquis": "",
+      "houveAlteracaoContexto": "",
+      "medidasAdotadas": "",
+      "interrupcaoAtividade": "",
+      "motivoInterrupcao": "",
+      "observacoesRecomendacoes": "",
+      "observacoesExtras": "",
+      "desc": "Em continuidade ao acompanhamento arqueológico da área destinada à Pilha de Saprólitos, foram mantidos os procedimentos adotados nos dias anteriores durante a remoção mecanizada da camada superficial do terreno. O monitoramento permaneceu direcionado à observação dos materiais mobilizados pela lâmina do trator de esteiras, das superfícies progressivamente rebaixadas e das leiras formadas com o sedimento removido, complementado pela reinspeção dos setores após a passagem do equipamento.\nNo início da jornada, ao acessar a área de trabalho, foi identificada uma pequena superfície submetida à supressão vegetal sem comunicação prévia à equipe de Arqueologia. A intervenção, estimada em aproximadamente 400 m², havia sido executada no dia anterior. Diante da situação, foi realizada prospecção arqueológica dirigida em toda a área afetada, abrangendo a superfície exposta, os sedimentos remobilizados e os setores marginais, sem que fossem identificados materiais arqueológicos, feições de origem antrópica pretérita ou alterações sedimentares de possível interesse arqueológico.\nApós essa verificação, o acompanhamento prosseguiu na frente principal da Pilha de Saprólitos, mantendo-se a inspeção direta durante o avanço do maquinário e a posterior revisão das superfícies rebaixadas. Nos setores acompanhados ao longo do dia, também não foram reconhecidas evidências arqueológicas.\nA continuidade dessa atividade permanece relevante para a avaliação arqueológica, uma vez que o rebaixamento atual alcança níveis do terreno não expostos durante a etapa inicial de supressão vegetal. Por essa razão, o acompanhamento deve ser mantido durante as demais intervenções que impliquem aprofundamento ou nova mobilização do solo natural.",
+      "obs": "A supressão vegetal de aproximadamente 400 m² identificada no início da jornada havia sido executada sem comunicação prévia à equipe de Arqueologia. Embora a prospecção posterior da área não tenha resultado na identificação de vestígios arqueológicos, esse procedimento não possui a mesma capacidade de controle proporcionada pelo acompanhamento simultâneo à intervenção, uma vez que eventual material poderia ser deslocado, fragmentado ou ter suas relações espaciais alteradas durante a operação mecanizada.\nA situação foi comunicada ao responsável pela operação, o Sr. Gilson MCSA, reforçando-se a necessidade de que toda intervenção sobre terreno natural, incluindo supressão vegetal, raspagem, escavação ou qualquer forma de revolvimento do solo natural, seja previamente informada à equipe de Arqueologia para possibilitar o acompanhamento correspondente. Esse procedimento está em consonância com as medidas previstas no projeto de gestão do patrimônio arqueológico apresentado no âmbito do empreendimento e aprovado pelo Iphan.\nA observância dessa comunicação assume particular relevância diante da recorrência de ocorrências e sítios arqueológicos já registrados na ADA do empreendimento. Nessas condições, intervenções executadas sem acompanhamento arqueológico podem representar risco de deslocamento ou perda de evidências e, principalmente, de comprometimento de suas relações contextuais, mesmo quando uma inspeção posterior não identifica materiais remanescentes na superfície.",
+      "modeloDocx": "HAS_ACOMPANHAMENTO",
+      "tradagens": []
+    },
+    "images": [
+      {
+        "key": "MWER4TZV_1794560962947_eh8yldd742v",
+        "recordId": "MWER4TZV",
+        "filename": "TimePhoto_20261112_105954.jpg",
+        "dt": "2026:11:12 10:59:54",
+        "coords": [
+          -39.92785472222222,
+          -9.30314
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 398098,
+          "northing": 8971500
+        },
+        "dir": null,
+        "caption": "Inspeção arqueológica de leira e superfície rebaixada durante a continuidade da remoção mecanizada da camada superficial na área da Pilha de Saprólitos",
+        "created": 1794560962947,
+        "hashArquivo_sha256": "bbfc871baf4e34df48c6fa4ab28c334a10dd746591c3c47ce3ae866bcf33cce7",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:11:12 10:59:54",
+        "exifNativeLat": -9.30314,
+        "exifNativeLon": -39.92785472222222
+      },
+      {
+        "key": "MWER4TZV_1794560963179_leu25zh87gf",
+        "recordId": "MWER4TZV",
+        "filename": "TimePhoto_20261112_085800.jpg",
+        "dt": "2026:11:12 08:58:00",
+        "coords": [
+          -39.93237638888888,
+          -9.304725000000001
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 397602,
+          "northing": 8971323
+        },
+        "dir": null,
+        "caption": "Área de aproximadamente 400 m² submetida à supressão vegetal sem comunicação prévia à equipe de Arqueologia, posteriormente vistoriada por meio de prospecção dirigida, sem identificação de vestígios arqueológicos",
+        "created": 1794560963180,
+        "hashArquivo_sha256": "54d6bf8df9a64cf8557674cdc685557ad2fb5801a5fd96dc989a5f89e91fbde6",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:11:12 08:58:00",
+        "exifNativeLat": -9.304725000000001,
+        "exifNativeLon": -39.93237638888888
+      },
+      {
+        "key": "MWER4TZV_1794560963461_jcvjrwu9z2",
+        "recordId": "MWER4TZV",
+        "filename": "TimePhoto_20261112_093523.jpg",
+        "dt": "2026:11:12 09:35:23",
+        "coords": [
+          -39.927161388888884,
+          -9.302993333333333
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 398174,
+          "northing": 8971516
+        },
+        "dir": null,
+        "caption": "Mobilização e transporte superficial do sedimento durante a formação das leiras, com exposição progressiva dos níveis atingidos pela intervenção\n",
+        "created": 1794560963461,
+        "hashArquivo_sha256": "4c636193b669b581d759297e83610552087ca47f923291ebfc4bc752e4df68cc",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:11:12 09:35:23",
+        "exifNativeLat": -9.302993333333333,
+        "exifNativeLon": -39.927161388888884
+      },
+      {
+        "key": "MWER4TZV_1794560963698_rc27fp2dqg",
+        "recordId": "MWER4TZV",
+        "filename": "TimePhoto_20261112_155815.jpg",
+        "dt": "2026:11:12 15:58:15",
+        "coords": [
+          -39.92871972222222,
+          -9.30339138888889
+        ],
+        "utm": {
+          "zone": 24,
+          "band": "L",
+          "easting": 398003,
+          "northing": 8971472
+        },
+        "dir": null,
+        "caption": "Continuidade do rebaixamento mecanizado, com acompanhamento da superfície exposta e do material mobilizado pela lâmina do trator de esteiras",
+        "created": 1794560963698,
+        "hashArquivo_sha256": "dbd1e9cdb2e4f767ed9650a1f31af729cc7eff237228bb4c0997688740ed1f0e",
+        "gpsFonte": "ANDROID_EXIF_NATIVE",
+        "exifJsStatus": "GPS_OK",
+        "exifNativeStatus": "GPS_OK",
+        "exifNativeModoLeitura": "FALLBACK_URI_APOS_ERRO_ORIGINAL",
+        "exifNativeData": "2026:11:12 15:58:15",
+        "exifNativeLat": -9.30339138888889,
+        "exifNativeLon": -39.92871972222222
+      }
+    ]
+  }
+}
